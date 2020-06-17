@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Sell Value
 ## Notes: Display the sell value of an item when not at a vendor
+## Notes-ptBR: Exibe o preço de venda dos itens sem um vendedor presente
 ## SavedVariables: SellValues, InvList_HiddenItems, InvList_TooltipMode
 ## LoadOnDemand: 0
 ## Author: CapnBry & Greenman

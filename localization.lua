@@ -89,3 +89,22 @@ if ( GetLocale() == "deDE" ) then
     INVLIST_BUTTON_TIP = "Verkaufspreisliste";
     INVLIST_HELP = "Toggle Frame der Verkaufspreisliste";
 end
+
+if ( GetLocale() == "ptBR" ) then
+    -- Traduzido por Ellington
+    SELLVALUE_COST      = "Vende por (cada):";
+    NOSELLPRICE         = "Sem preço de venda";
+    
+    ITEMSWITHNOVALUE    = "Itens sem valor";
+    SHOWTOTALFORSTACK   = "Exibe total da pilha";
+    
+    BINDING_HEADER_INVLIST = "Lista do Inventário";
+    BINDING_NAME_TOGGLEINVLIST = "Exibe/Oculta a Lista dos Preços de Venda dos Itens do Inventário";
+    INVLIST_TITLE = "Preço de Venda dos Itens do Inventário";
+    INVLIST_COL1 = "Nome dos Itens";
+    INVLIST_COL2 = "Valor";
+    INVLIST_BUTTON_TEXT = "Lista do Inventário";
+    INVLIST_BUTTON_SUBTEXT = "Preço de Venda";
+    INVLIST_BUTTON_TIP = "Preço de Venda dos Itens do Inventário";
+    INVLIST_HELP = "Exibe/Oculta a Lista dos Preços de Venda dos Itens do Inventário";
+end

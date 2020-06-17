@@ -11,6 +11,5 @@
 5. Restart WoW
 
 ## Usage
-* Displays sell values after get this information from any seller
-* It shows sell values after get this information with vendors
+* Displays sell values after get this information from vendors
 * Use /il command to open Inventory List
